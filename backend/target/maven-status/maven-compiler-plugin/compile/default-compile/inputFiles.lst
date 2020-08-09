@@ -1,0 +1,8 @@
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/config/MessageListener.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/controllers/ChatController.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/config/WebSocketConfig.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/config/ProducerConfiguration.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/constants/KafkaConstants.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/models/Message.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/config/ListenerConfig.java
+/home/baki/Documentos/Projetos/chat-kafka-websocket/src/main/java/com/chat/kafkachat/KafkaJavaApp.java
